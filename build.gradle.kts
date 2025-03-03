@@ -46,7 +46,7 @@ dependencies {
   runtimeOnly("org.postgresql:postgresql")
 
   // OpenAPI
-  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0")
+  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.5")
   implementation("org.springdoc:springdoc-openapi-starter-common:2.6.0")
 
   // Testing
